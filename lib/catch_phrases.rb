@@ -9,8 +9,9 @@ def toadstool
 end
 
 def link
-  saying = "It's Dangerous To Go Alone! Take This."
-  puts saying
+  #saying = "It's Dangerous To Go Alone! Take This."
+  #puts saying
+  puts "It's Dangerous To Go Alone! Take This."
 end
 
 
