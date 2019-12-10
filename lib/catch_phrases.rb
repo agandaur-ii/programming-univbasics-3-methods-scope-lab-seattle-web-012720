@@ -13,3 +13,5 @@ def link
   puts saying
 end
 
+def any_phrase
+  
